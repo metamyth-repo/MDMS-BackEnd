@@ -1,0 +1,14 @@
+{
+  "name": "mdms-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "backend_server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node backend_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
